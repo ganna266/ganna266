@@ -11,7 +11,7 @@
 I am a **Data Analyst & Business Analyst** with a strong background in **data analysis, visualization, and predictive modeling**.  
 I enjoy transforming raw data into meaningful insights that support **data-driven decision making** 📊.
 
-- 🎓 Business Analytics Graduate (GPA: 3.78)
+- 🎓 Business Analytics Graduate 
 - 📊 Skilled in Power BI, Tableau, Excel, SQL, Python, and R
 - 🤖 Interested in Machine Learning & Predictive Analytics
 - 📍 Based in Cairo, Egypt
@@ -24,11 +24,9 @@ I enjoy transforming raw data into meaningful insights that support **data-drive
 
 - 🔭 I’m currently working on **Data Analytics & Dashboard Projects**
 - 🤝 I’m looking to collaborate on **Data Analysis / BI Projects**
-- 🌱 I’m currently learning **Advanced Machine Learning & Big Data**
-- 👨🏻‍💻 Check my projects on [GitHub](https://github.com/)
-- 💬 Ask me about **Data Analysis, SQL, Power BI, Python**
+- 🌱 I’m currently learning **Advanced Machine Learning**
 - 📫 Reach me at: **ganasaleh6677@gmail.com**
-- 📝 [View My Resume](https://drive.google.com/file/d/1kzDRtoM61QrI7nbBEOQc7nbvhLKQL280/view)
+
 
 ---
 
@@ -45,8 +43,12 @@ I enjoy transforming raw data into meaningful insights that support **data-drive
   - Data transformation using Power Query  
 
 - **Information Technology Institute (ITI)**  
-  - Worked with SQL Server (SSIS, SSAS, SSRS)  
-  - Built BI dashboards  
+  - Built expertise in data management, analysis, and visualization using Microsoft SQL Bl
+    tools (SSIS, SSAS, SSRS). Designed data models and performed statistical analysis to
+    support business intelligence initiatives. Created dynamic visual dashboards using Power
+    Bl, Tableau, and Excel to enable data-driven decision making .
+
+- **Trainee - Talaat Moustafa Group** 
 
 ---
 
@@ -55,7 +57,6 @@ I enjoy transforming raw data into meaningful insights that support **data-drive
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
@@ -64,40 +65,7 @@ I enjoy transforming raw data into meaningful insights that support **data-drive
 
 ---
 
-### 📊 Projects
-
-- 📈 **E-Commerce Demand Forecasting & Dynamic Pricing**  
-  - Used CatBoost, XGBoost, LightGBM  
-  - Applied optimization (MILP)  
-
-- 🩺 **Diabetes Analysis in Egypt**  
-  - تحليل الاتجاهات الصحية (1990–2022)  
-  - Identified treatment gaps & trends  
-
-- 🧬 **NHANES Data Analysis**  
-  - Data cleaning & exploratory analysis باستخدام Python  
-
-- 🛍️ **Customer Personality Analysis**  
-  - Excel dashboard  
-
-- 🚗 **Car Sales Dashboard**  
-  - Interactive Power BI dashboard  
-
-- 🏠 **Melbourne Housing Analysis**  
-  - Data cleaning & analysis using R  
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ### 🎯 Goals
 
 - Become a **Professional Data Analyst / Data Scientist**
-- Build impactful **real-world data projects**
-- Work on **AI & Data-driven solutions**
+- Build impactful **real-world data projects** 
