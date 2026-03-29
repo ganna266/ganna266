@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" 
+       alt="Hi, I'm Ganna 👋 Data Analyst 📊 | Business Analytics Graduate 🎓 | Passionate about Data & AI 🤖">
+</p>
+
 ## Hey 👋, I'm Ganna Allah Saleh!
 <a href='https://www.linkedin.com/in/ganna-allah-saleh'><img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='18px'/></a>
 <a href='mailto:ganasaleh6677@gmail.com'><img align='left' alt="gmail" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height='18px'/></a>
